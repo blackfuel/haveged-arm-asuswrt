@@ -1,4 +1,4 @@
-# dnscrypt-arm-asuswrt
+# haveged-arm-asuswrt
 
 ### HOWTO: Compile Haveged for AsusWRT firmware
 ```
