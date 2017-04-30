@@ -28,6 +28,12 @@ Collect entropy and feed into random pool or write to file.
 ```
 
 
+### Links
+[Website for haveged](http://www.issihosts.com/haveged/index.html)  
+[Manpage for haveged](https://github.com/blackfuel/haveged-arm-asuswrt/blob/master/haveged.md)  
+
+
+
 <body>
 <div id="page">
 <h1>haveged - A simple entropy daemon</h1>
@@ -85,8 +91,3 @@ Recent support for haveged provided by Ben Eleventh Consulting.
 </p>
 </div>
 </body>
-
-
-### Links
-[Website for haveged](http://www.issihosts.com/haveged/index.html)  
-[Manpage for haveged](https://github.com/blackfuel/haveged-arm-asuswrt/blob/master/haveged.md)  
