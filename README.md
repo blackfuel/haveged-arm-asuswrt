@@ -8,6 +8,26 @@ cd haveged-arm-asuswrt
 ./haveged.sh
 ```
 
+### Usage
+```
+Usage: haveged [options]
+
+Collect entropy and feed into random pool or write to file.
+  Options:
+     --buffer    , -b [] Buffer size [KW], default: 128
+     --data      , -d [] Data cache size [KB], with fallback to: 16
+     --inst      , -i [] Instruction cache size [KB], with fallback to: 16
+     --file      , -f [] Sample output file,  default: 'sample', '-' for stdout
+     --Foreground, -F    Run daemon in foreground
+     --run       , -r [] 0=daemon, 1=config info, >1=<r>KB sample
+     --number    , -n [] Output size in [k|m|g|t] bytes, 0 = unlimited to stdout
+     --pidfile   , -p [] daemon pidfile, default: /var/run/haveged.pid
+     --verbose   , -v [] Verbose mask 0=none,1=summary,2=retries,4=timing,8=loop,16=code,32=test
+     --write     , -w [] Set write_wakeup_threshold [bits]
+     --help      , -h    This help
+```
+
+### Website
 http://www.issihosts.com/haveged/index.html
 
 <body>
