@@ -27,8 +27,6 @@ Collect entropy and feed into random pool or write to file.
      --help      , -h    This help
 ```
 
-### Website
-http://www.issihosts.com/haveged/index.html
 
 <body>
 <div id="page">
@@ -88,3 +86,7 @@ Recent support for haveged provided by Ben Eleventh Consulting.
 </div>
 </body>
 
+
+### Links
+[Website for haveged](http://www.issihosts.com/haveged/index.html)  
+[Manpage for haveged](https://github.com/blackfuel/haveged-arm-asuswrt/blob/master/haveged.md)  
